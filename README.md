@@ -1,4 +1,7 @@
-## Hi there 👋
+
+Computer Science Student |  Backend Developer
+
+
 
 <!--
 **sina-bir/sina-bir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
